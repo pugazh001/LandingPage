@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/LandingPage/static/css/main.b634fa8b.css",
+    "main.js": "/LandingPage/static/js/main.96e7455f.js",
+    "static/media/Aswin.webp": "/LandingPage/static/media/Aswin.c74939cab0b37ffe5fc3.webp",
+    "static/media/HomePage.webp": "/LandingPage/static/media/HomePage.e332aa742036a01f08bb.webp",
+    "static/media/Rahane.webp": "/LandingPage/static/media/Rahane.338a69d1d79132aa33b0.webp",
+    "static/media/Dhoni.webp": "/LandingPage/static/media/Dhoni.b31edd2f17d3bfb03529.webp",
+    "static/media/kohli.avif": "/LandingPage/static/media/kohli.22d451dc3eda3c20889e.avif",
+    "index.html": "/LandingPage/index.html",
+    "main.b634fa8b.css.map": "/LandingPage/static/css/main.b634fa8b.css.map",
+    "main.96e7455f.js.map": "/LandingPage/static/js/main.96e7455f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b634fa8b.css",
+    "static/js/main.96e7455f.js"
+  ]
+}
